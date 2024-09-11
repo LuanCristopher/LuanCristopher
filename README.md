@@ -7,7 +7,7 @@
 
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanCristopher&show_icons=true&theme=dracula)
 
-## Tecnologias que costumo utilizar
+## Technologies I usually use
 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/90490f17-46fa-4502-9eab-2147a78b3d7d/linked_in?t=sclq8u)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
