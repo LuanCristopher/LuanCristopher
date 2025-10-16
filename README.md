@@ -10,7 +10,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-v-oliveira/)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/luan-cristopher/badges)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/luan-cristopher-vieira-de-oliveira/badges#credly)
 [![Gmail](https://img.shields.io/badge/Email-luangugi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luangugi@gmail.com)
 
 </div>
